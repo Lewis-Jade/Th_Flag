@@ -1,0 +1,52 @@
+ 🌟 Cyb3rs3c Fr4t4nity CTF Challenge 🌟
+
+Welcome, hacker! 🏴‍☠️ Your mission is simple: Find the hidden flag.
+But remember,  coffee is never free! ☕😏
+
+---
+
+🛠️ Step 1: Setup the Challenge
+First, make sure you can execute the setup script. Run this command:
+
+ 
+chmod +x setup.sh
+
+
+Then, execute it to set up your environment:
+
+bash
+./setup.sh
+
+This will create a **hidden directory** somewhere... but can you find it? 😈  
+
+---
+
+🕵️ Step 2: Start the Hunt
+Now, use your Linux skills  to uncover the secrets. Some useful commands:  
+
+- Check hidden files & directories:
+
+  ls -la
+  
+
+Navigate like a ghost: 
+  
+  cd <directory_name>
+  
+
+Peek inside files:
+  cat <file_name>
+  
+
+
+🤔 Hint:
+ "You owe me a cup of coffee, but where’s my sugar?"_ ☕🍬  
+
+Can you find the sweet reward**, or will you be left  bitter and flagless? 😆  
+
+---
+
+🚀 Good luck, and remember: No flags for lazy minds! 💀🔥  
+
+- Cyb3rs3c Fr4t4nity
+

@@ -19,7 +19,7 @@ if [ ! -d "$DIR" ]; then
 
     # The REAL hidden flag (buried deep!)
     SECRET_FILE="$FAKE_DIR/sugar.txt"
-    echo "flag{C0ff33_1s_n0t_Fr33}" > "$SECRET_FILE"
+    echo "cyb3rs3c{C0ff33_1s_n0t_Fr33}" > "$SECRET_FILE"
 
     echo "Hidden directory '$DIR' created with deceptive coffee clues."
 else
