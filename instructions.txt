@@ -14,7 +14,6 @@ chmod +x setup.sh
 
 Then, execute it to set up your environment:
 
-bash
 ./setup.sh
 
 This will create a **hidden directory** somewhere... but can you find it? 😈  
